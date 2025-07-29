@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Mechatronics & Robotics Engineer | AI/ML Enthusiast | ROS2</h3>
+<h3 align="center">✨Mechatronics & Robotics Engineer🤖 | AI/ML Enthusiast✨</h3>
 
 ###
 
